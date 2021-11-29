@@ -95,8 +95,8 @@ app.post("/forgot-password.html", (req, res, next) => {
   
       service: 'gmail',
   auth: {
-  user: 'nonreply18@gmail.com',
-  pass: 'Thursday*123',
+  user: 'malulekemsg@gmail.com',
+  pass: 'Vuakoma*01',
   }
   });
   var mailOptions;
